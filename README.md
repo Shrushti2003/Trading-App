@@ -69,12 +69,7 @@ The primary goal of this project is to provide a robust and user-friendly tradin
   - Press 6 for Sell Crypto
   - Enter amount and type of cryptocurrency: `50 BTC`
   - Output: Updated account balance and cryptocurrency holdings.
-
-## Conclusion
-This C++ Trading App provides a comprehensive platform for managing trading activities. It serves as an educational tool and a practical application for performing various trading operations, ensuring users have a seamless experience in managing their accounts and trading cryptocurrencies.
-
----
-
+ 
 ### Instructions
 - **Press 1 for Account Info**
 - **Press 2 for Deposit Money**
@@ -84,4 +79,14 @@ This C++ Trading App provides a comprehensive platform for managing trading acti
 - **Press 6 for Sell Crypto**
 - **Press any invalid key to exit**
 
+
+## Conclusion
+This C++ Trading App provides a comprehensive platform for managing trading activities. It serves as an educational tool and a practical application for performing various trading operations, ensuring users have a seamless experience in managing their accounts and trading cryptocurrencies.
+
+
 This format offers a detailed and clear overview of your Trading App project, highlighting the key features and functionalities in a user-friendly manner.
+
+
+---
+
+
